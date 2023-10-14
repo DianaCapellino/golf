@@ -1,0 +1,40 @@
+@font-face {
+    font-family: branditalic;
+    src: url("../../Qwigley-Regular.ttf");
+}
+
+body {
+    color: #101010;
+    font-family: itc-avant-garde-gothic-pro, sans-serif;
+    font-style: normal;
+    font-weight: 300;
+}
+
+h2 {
+    font-family: itc-avant-garde-gothic-pro, sans-serif;
+    font-style: normal;
+    font-weight: 700;
+}
+
+#img-container {
+    text-align:center;
+}
+
+#argentina-map {
+    width: 50%;
+}
+
+#brand-name {
+    font-family: branditalic, arial;
+    font-size: 1.5rem;
+}
+
+#homeimage {
+    width: 100%;
+}
+
+@media (min-width: 400px) {
+    #brand-name {
+      font-size: 2rem;
+    }
+}
