@@ -21,12 +21,15 @@ h2 {
 }
 
 #argentina-map {
-    width: 50%;
+    width: 20%;
 }
 
-#brand-name {
-    font-family: branditalic, arial;
-    font-size: 1.5rem;
+nav ul li {
+    padding: 0 5px 0 5px;
+}
+
+.fa-brands {
+    color: #fff;
 }
 
 #homeimage {
